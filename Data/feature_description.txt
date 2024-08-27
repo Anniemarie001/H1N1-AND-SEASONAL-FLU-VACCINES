@@ -4,8 +4,10 @@ For all binary variables: 0 = No; 1 = Yes.
 
 h1n1_concern - Level of concern about the H1N1 flu.
 0 = Not at all concerned; 1 = Not very concerned; 2 = Somewhat concerned; 3 = Very concerned.
+
 h1n1_knowledge - Level of knowledge about H1N1 flu.
 0 = No knowledge; 1 = A little knowledge; 2 = A lot of knowledge.
+
 behavioral_antiviral_meds - Has taken antiviral medications. (binary)
 behavioral_avoidance - Has avoided close contact with others with flu-like symptoms. (binary)
 behavioral_face_mask - Has bought a face mask. (binary)
@@ -21,16 +23,22 @@ health_worker - Is a healthcare worker. (binary)
 health_insurance - Has health insurance. (binary)
 opinion_h1n1_vacc_effective - Respondent's opinion about H1N1 vaccine effectiveness.
 1 = Not at all effective; 2 = Not very effective; 3 = Don't know; 4 = Somewhat effective; 5 = Very effective.
+
 opinion_h1n1_risk - Respondent's opinion about risk of getting sick with H1N1 flu without vaccine.
 1 = Very Low; 2 = Somewhat low; 3 = Don't know; 4 = Somewhat high; 5 = Very high.
+
 opinion_h1n1_sick_from_vacc - Respondent's worry of getting sick from taking H1N1 vaccine.
 1 = Not at all worried; 2 = Not very worried; 3 = Don't know; 4 = Somewhat worried; 5 = Very worried.
+
 opinion_seas_vacc_effective - Respondent's opinion about seasonal flu vaccine effectiveness.
 1 = Not at all effective; 2 = Not very effective; 3 = Don't know; 4 = Somewhat effective; 5 = Very effective.
+
 opinion_seas_risk - Respondent's opinion about risk of getting sick with seasonal flu without vaccine.
 1 = Very Low; 2 = Somewhat low; 3 = Don't know; 4 = Somewhat high; 5 = Very high.
+
 opinion_seas_sick_from_vacc - Respondent's worry of getting sick from taking seasonal flu vaccine.
 1 = Not at all worried; 2 = Not very worried; 3 = Don't know; 4 = Somewhat worried; 5 = Very worried.
+
 age_group - Age group of respondent.
 education - Self-reported education level.
 race - Race of respondent.
