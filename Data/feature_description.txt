@@ -21,6 +21,7 @@ chronic_med_condition - Has any of the following chronic medical conditions: ast
 child_under_6_months - Has regular close contact with a child under the age of six months. (binary)
 health_worker - Is a healthcare worker. (binary)
 health_insurance - Has health insurance. (binary)
+
 opinion_h1n1_vacc_effective - Respondent's opinion about H1N1 vaccine effectiveness.
 1 = Not at all effective; 2 = Not very effective; 3 = Don't know; 4 = Somewhat effective; 5 = Very effective.
 
