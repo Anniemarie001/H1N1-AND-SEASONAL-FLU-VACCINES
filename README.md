@@ -163,8 +163,6 @@ This project aims to provide a thorough analysis of the H1N1 vaccine uptake to s
 
 **Address Misconceptions:** Develop public health campaigns to dispel myths and boost confidence in the vaccine's effectiveness, emphasizing clear and evidence-based information.
 
-**Improve Model Recall:** Consider using more advanced models or refining features to improve the model's ability to correctly identify vaccinated individuals.
-
 **Conduct Further Analysis:** Explore additional health-related factors or interactions that might influence vaccination decisions, particularly for those with chronic medical conditions.
 
 ## License
